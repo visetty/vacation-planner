@@ -5,3 +5,7 @@
 #btn-tryagain {
   display: none;
 }
+
+body {
+  background-color: #999;
+}
