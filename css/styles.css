@@ -10,6 +10,10 @@ body {
   background-color: #999;
 }
 
+.container {
+  box-sizing: border-box;</div>
+}
+
 .jumbotron {
   background-color: #333;
 }
@@ -21,12 +25,23 @@ body {
   color: white;
 }
 
-.container {
-  box-sizing: border-box;
+#vacationideas {
+  font-weight: bold;
 }
 
+.form-control {
+  width: 100%;
+}
+
+.thumbnail {
+  background-color: #333;
+}
 .choices h3 {
   text-align: center;
   font-weight: bold;
   color: #000;
+}
+
+#btn-tryagain {
+  align-self: center;
 }
